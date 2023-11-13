@@ -1,0 +1,11 @@
+div {
+  /* background-color: grey; */
+}
+div > div.col-2 {
+  /* background-color: blue; */
+  width: 10rem;
+}
+div > div.col-10 {
+  /* background-color: red; */
+  width: 75%;
+}

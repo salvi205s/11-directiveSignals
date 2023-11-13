@@ -1,0 +1,10 @@
+.row{
+  width: 150%;
+  /* background-color: red; */
+}
+
+ div > div:nth-child(1){
+  /* background-color: green; */
+  width: 30%;
+
+ }
